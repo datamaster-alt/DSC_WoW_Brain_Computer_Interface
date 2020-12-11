@@ -1,15 +1,5 @@
 # DSC_WoW_Brain_Computer_Interface
 
-## Table of Contents
-
-* [System discription](#about-the-project)
-* [Built With](#built-with)
-* [Objective](#objective)
-* [Built With](#built-with)
-* [Demo Video](#demo-video)
-* [Block Diagram](#block-diagram)
-* [Signal Procesing](#Signal-Procesing)
-* [3D model](#3D-Model)
 
 
 ## Objective
